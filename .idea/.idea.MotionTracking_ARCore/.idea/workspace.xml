@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b58049de-06a6-4db8-996c-34dbd65ccbfe" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="118773710">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="5" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="30" />
+          <entry key="shader" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="30" />
+          <entry key="ShaderLab" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="8489" />
+          <entry key="shader" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="8489" />
+          <entry key="ShaderLab" value="33" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/ARular/Scripts/LineRendererDrawing.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="79" column="40" lean-forward="true" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
+              <folding>
+                <marker date="1557420896689" expanded="true" signature="6:65" ph="..." />
+                <marker date="1557420896689" expanded="true" signature="88:7053" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="110:605" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="257:355" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="401:599" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="449:526" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="687:7051" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="1229:1418" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="1302:1408" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="1478:1917" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="1985:4304" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="2208:2694" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="2749:3870" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="3212:3306" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="3548:3840" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="3739:3822" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="3926:4264" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="4406:5768" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="4597:5012" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="4825:4998" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="5046:5373" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="5123:5204" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="5225:5307" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="5803:5856" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="5884:6090" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="5932:6053" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="6163:6408" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="6261:6347" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="6460:6931" ph="{...}" />
+                <marker date="1557420896689" expanded="true" signature="6970:7045" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/UnitConverter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+              <folding>
+                <marker date="1557360694255" expanded="false" signature="6:110" ph="..." />
+                <marker date="1557360694255" expanded="true" signature="132:776" ph="{...}" />
+                <marker date="1557360694255" expanded="true" signature="203:774" ph="{...}" />
+                <marker date="1557360694255" expanded="true" signature="415:588" ph="{...}" />
+                <marker date="1557360694255" expanded="true" signature="621:768" ph="{...}" />
+                <marker date="1557360694255" expanded="true" signature="667:758" ph="/* if (output.Contains(&quot;cm&quot;)) ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ARular/Scripts/DistanceButton.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+              <folding>
+                <marker date="1557371386027" expanded="true" signature="6:91" ph="..." />
+                <marker date="1557371386027" expanded="true" signature="114:471" ph="{...}" />
+                <marker date="1557371386027" expanded="true" signature="170:469" ph="{...}" />
+                <marker date="1557371386027" expanded="true" signature="205:251" ph="{...}" />
+                <marker date="1557371386027" expanded="true" signature="300:463" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ARular/Scripts/DiscreteContButton.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <marker date="1557365905634" expanded="true" signature="6:78" ph="..." />
+                <marker date="1557365905634" expanded="true" signature="101:461" ph="{...}" />
+                <marker date="1557365905634" expanded="true" signature="157:459" ph="{...}" />
+                <marker date="1557365905634" expanded="true" signature="241:287" ph="{...}" />
+                <marker date="1557365905634" expanded="true" signature="336:453" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ARular/Scripts/ShowHideButton.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <marker date="1557365921164" expanded="true" signature="6:100" ph="..." />
+                <marker date="1557365921164" expanded="true" signature="123:517" ph="{...}" />
+                <marker date="1557365921164" expanded="true" signature="175:514" ph="{...}" />
+                <marker date="1557365921164" expanded="true" signature="301:356" ph="{...}" />
+                <marker date="1557365921164" expanded="true" signature="405:508" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ARular/Scripts/ButtonBehaviour.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding>
+                <marker date="1557365934791" expanded="true" signature="6:100" ph="..." />
+                <marker date="1557365934791" expanded="true" signature="123:893" ph="{...}" />
+                <marker date="1557365934791" expanded="true" signature="174:890" ph="{...}" />
+                <marker date="1557365934791" expanded="true" signature="434:603" ph="{...}" />
+                <marker date="1557365934791" expanded="true" signature="651:884" ph="{...}" />
+                <marker date="1557365934791" expanded="true" signature="715:786" ph="{...}" />
+                <marker date="1557365934791" expanded="true" signature="803:874" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ARular/Scripts/Point.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+              <folding>
+                <marker date="1557275006113" expanded="false" signature="6:78" ph="..." />
+                <marker date="1557275006113" expanded="true" signature="101:222" ph="{...}" />
+                <marker date="1557275006113" expanded="true" signature="143:220" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ARular/Scripts/TestingLine.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="4" column="79" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
+              <folding>
+                <marker date="1557420644609" expanded="false" signature="6:110" ph="..." />
+                <marker date="1557420644609" expanded="true" signature="212:3044" ph="{...}" />
+                <marker date="1557420644609" expanded="true" signature="262:3041" ph="{...}" />
+                <marker date="1557420644609" expanded="true" signature="575:659" ph="{...}" />
+                <marker date="1557420644609" expanded="true" signature="768:1508" ph="{...}" />
+                <marker date="1557420644609" expanded="true" signature="913:1363" ph="{...}" />
+                <marker date="1557420644609" expanded="true" signature="1024:1349" ph="{...}" />
+                <marker date="1557420644609" expanded="true" signature="1404:1485" ph="{...}" />
+                <marker date="1557420644609" expanded="true" signature="1548:2102" ph="{...}" />
+                <marker date="1557420644609" expanded="true" signature="1690:2083" ph="{...}" />
+                <marker date="1557420644609" expanded="true" signature="1772:2069" ph="{...}" />
+                <marker date="1557420644609" expanded="true" signature="2167:2569" ph="{...}" />
+                <marker date="1557420644609" expanded="true" signature="2623:3035" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ARular/Scripts/ARController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="71" column="56" selection-start-line="71" selection-start-column="56" selection-end-line="71" selection-end-column="56" />
+              <folding>
+                <marker date="1557420459634" expanded="true" signature="6:184" ph="..." />
+                <marker date="1557420459634" expanded="true" signature="207:3952" ph="{...}" />
+                <marker date="1557420459634" expanded="true" signature="256:3949" ph="{...}" />
+                <marker date="1557420459634" expanded="true" signature="708:855" ph="{...}" />
+                <marker date="1557420459634" expanded="true" signature="921:1654" ph="{...}" />
+                <marker date="1557420459634" expanded="true" signature="1686:3475" ph="{...}" />
+                <marker date="1557420459634" expanded="true" signature="1824:1957" ph="/* The idea is to throw a ray from the center of the screen. ... */" />
+                <marker date="1557420459634" expanded="true" signature="2192:3447" ph="{...}" />
+                <marker date="1557420459634" expanded="true" signature="2508:2620" ph="{...}" />
+                <marker date="1557420459634" expanded="true" signature="2641:2754" ph="{...}" />
+                <marker date="1557420459634" expanded="true" signature="2956:3137" ph="/* Taking the center point object of the marker point. This is not important in this moment. ... */" />
+                <marker date="1557420459634" expanded="true" signature="3540:3942" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Cull</find>
+      <find>distanceTextButton</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/ARular/Scripts/ARController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ARular/Scripts/VectorLines.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../UnderTheGUI/Zombie_Shooter_AR/Assets/ZombieSpawner.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ARular/Scripts/ShowHideButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/HitTestApi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/ARCoreWorldOriginHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ARFoundation_101/Library/PackageCache/com.unity.xr.arfoundation@1.0.0-preview.22/Runtime/AR/ARPlane.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ARular/Scripts/Line.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ARular/Scripts/Point.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ARular/Scripts/LineRendererDrawing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Managers/LifecycleManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ARular/Scripts/TestingLine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ARular/Scripts/ButtonBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ARular/Scripts/GLRendererDrawing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ARular/Scripts/DistanceButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ARular/Scripts/DiscreteContButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UnitConverter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/AnchorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CurvedLine/Scripts/CurvedLine/CurvedLineRenderer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/HelloAR/Scripts/HelloARController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CurvedLine/Scripts/CurvedLine/CurvedLinePoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/Common/Scripts/DetectedPlaneGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ARular/Scripts/MeshRendererDrawing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ARular/Scripts/SingleToneManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/ARController.cs" />
+        <option value="$PROJECT_DIR$/Assets/VectorLine.cs" />
+        <option value="$PROJECT_DIR$/Assets/VectorLines.cs" />
+        <option value="$PROJECT_DIR$/Assets/LineRendererDrawing.cs" />
+        <option value="$PROJECT_DIR$/Assets/DrawLine.cs" />
+        <option value="$PROJECT_DIR$/Assets/ARular/Scripts/LineDrawing.cs" />
+        <option value="$PROJECT_DIR$/Assets/ARular/Scripts/DrawLine.cs" />
+        <option value="$PROJECT_DIR$/Assets/ARular/Scripts/1LineRendererLineOld.cs" />
+        <option value="$PROJECT_DIR$/Assets/ARular/Scripts/Line.cs" />
+        <option value="$PROJECT_DIR$/Assets/ARular/Scripts/GLRendererDrawing.cs" />
+        <option value="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader" />
+        <option value="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader" />
+        <option value="$PROJECT_DIR$/Assets/ARular/Scripts/MeshRendererDrawing.cs" />
+        <option value="$PROJECT_DIR$/Assets/ARular/Scripts/SingleToneManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/ARular/Scripts/VectorLines.cs" />
+        <option value="$PROJECT_DIR$/Assets/ARular/Scripts/Point.cs" />
+        <option value="$PROJECT_DIR$/Assets/UnitConverter.cs" />
+        <option value="$PROJECT_DIR$/Assets/ARular/Scripts/DiscreteContButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/ARular/Scripts/ShowHideButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/ARular/Scripts/ButtonBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/ARular/Scripts/DistanceButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/GoogleARCore/Examples/Common/Scripts/DetectedPlaneGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/ARular/Scripts/ARController.cs" />
+        <option value="$PROJECT_DIR$/Assets/ARular/Scripts/TestingLine.cs" />
+        <option value="$PROJECT_DIR$/Assets/ARular/Scripts/LineRendererDrawing.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="669" />
+    <option name="y" value="23" />
+    <option name="width" value="1011" />
+    <option name="height" value="981" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/shubhrasarker/Documents/GameDev/AR/MotionTracking_ARCore/Assets/UnitConverter.cs" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b58049de-06a6-4db8-996c-34dbd65ccbfe" name="Default Changelist" comment="" />
+      <created>1542231120313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542231120313</updated>
+      <workItem from="1542231124687" duration="3896000" />
+      <workItem from="1542267245070" duration="1455000" />
+      <workItem from="1556843646498" duration="1125000" />
+      <workItem from="1556845136407" duration="1111000" />
+      <workItem from="1557038098608" duration="12922000" />
+      <workItem from="1557101495042" duration="8582000" />
+      <workItem from="1557263802400" duration="500000" />
+      <workItem from="1557264429530" duration="332000" />
+      <workItem from="1557270880708" duration="13807000" />
+      <workItem from="1557348675060" duration="6711000" />
+      <workItem from="1557365502571" duration="11872000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="62313000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="669" y="23" width="1011" height="981" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.12332112" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/VectorLine.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/DrawLine.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/LineRendererDrawing.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/ARController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/VectorLines.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/HelloAR/Scripts/HelloARController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="79" column="93" selection-start-line="79" selection-start-column="93" selection-end-line="79" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ARular/Scripts/LineDrawing.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/ARular/Scripts/DrawLine.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/ARular/Scripts/1LineRendererLineOld.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/CurvedLine/Scripts/CurvedLine/CurvedLineRenderer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="31" column="58" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CurvedLine/Scripts/CurvedLine/CurvedLinePoint.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ARular/Scripts/Line.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="102" column="13" selection-start-line="102" selection-start-column="13" selection-end-line="102" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="71" column="13" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../UnderTheGUI/Zombie_Shooter_AR/Assets/ZombieSpawner.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ARular/Scripts/GLRendererDrawing.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ARFoundation_101/Library/PackageCache/com.unity.xr.arfoundation@1.0.0-preview.22/Runtime/AR/ARPlane.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ARular/Scripts/MeshRendererDrawing.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-533">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/ARCoreWorldOriginHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/AnchorController.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/HitTestApi.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="57" column="41" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Managers/LifecycleManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ARular/Scripts/VectorLines.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ARular/Scripts/SingleToneManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <marker date="1557274937972" expanded="false" signature="6:91" ph="..." />
+            <marker date="1557274937972" expanded="true" signature="114:822" ph="{...}" />
+            <marker date="1557274937972" expanded="true" signature="192:819" ph="{...}" />
+            <marker date="1557274937972" expanded="true" signature="267:680" ph="{...}" />
+            <marker date="1557274937972" expanded="true" signature="330:670" ph="{...}" />
+            <marker date="1557274937972" expanded="true" signature="382:516" ph="{...}" />
+            <marker date="1557274937972" expanded="true" signature="560:643" ph="{...}" />
+            <marker date="1557274937972" expanded="true" signature="759:813" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ARular/Scripts/ShowHideButton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <marker date="1557365921164" expanded="true" signature="6:100" ph="..." />
+            <marker date="1557365921164" expanded="true" signature="123:517" ph="{...}" />
+            <marker date="1557365921164" expanded="true" signature="175:514" ph="{...}" />
+            <marker date="1557365921164" expanded="true" signature="301:356" ph="{...}" />
+            <marker date="1557365921164" expanded="true" signature="405:508" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ARular/Scripts/DiscreteContButton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <marker date="1557365905634" expanded="true" signature="6:78" ph="..." />
+            <marker date="1557365905634" expanded="true" signature="101:461" ph="{...}" />
+            <marker date="1557365905634" expanded="true" signature="157:459" ph="{...}" />
+            <marker date="1557365905634" expanded="true" signature="241:287" ph="{...}" />
+            <marker date="1557365905634" expanded="true" signature="336:453" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/Common/Scripts/DetectedPlaneGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+          <folding>
+            <marker date="1557375240157" expanded="true" signature="0:839" ph="/* ----------------------------------------------------------------------- ... */" />
+            <marker date="1557375240157" expanded="true" signature="879:2711" ph="{...}" />
+            <marker date="1557375240157" expanded="false" signature="892:966" ph="..." />
+            <marker date="1557375240157" expanded="true" signature="972:1071" ph="/// Manages the visualization of detected planes in the scene. ... " />
+            <marker date="1557375240157" expanded="true" signature="1127:2709" ph="{...}" />
+            <marker date="1557375240157" expanded="true" signature="1142:1245" ph="/// A prefab for tracking and visualizing detected planes. ... " />
+            <marker date="1557375240157" expanded="true" signature="1302:1507" ph="/// A list to hold new planes ARCore began tracking in the current frame. This object is ... " />
+            <marker date="1557375240157" expanded="true" signature="1594:1667" ph="/// The Unity Update method. ... " />
+            <marker date="1557375240157" expanded="true" signature="1696:2703" ph="{...}" />
+            <marker date="1557375240157" expanded="true" signature="1819:1871" ph="{...}" />
+            <marker date="1557375240157" expanded="true" signature="1885:2003" ph="/* Iterate over planes found in this frame and instantiate corresponding GameObjects to ... */" />
+            <marker date="1557375240157" expanded="true" signature="2148:2693" ph="{...}" />
+            <marker date="1557375240157" expanded="true" signature="2179:2425" ph="/* Instantiate a plane visualization prefab and set it to track the new plane. The ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ARular/Scripts/ARController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="71" column="56" selection-start-line="71" selection-start-column="56" selection-end-line="71" selection-end-column="56" />
+          <folding>
+            <marker date="1557420459634" expanded="true" signature="6:184" ph="..." />
+            <marker date="1557420459634" expanded="true" signature="207:3952" ph="{...}" />
+            <marker date="1557420459634" expanded="true" signature="256:3949" ph="{...}" />
+            <marker date="1557420459634" expanded="true" signature="708:855" ph="{...}" />
+            <marker date="1557420459634" expanded="true" signature="921:1654" ph="{...}" />
+            <marker date="1557420459634" expanded="true" signature="1686:3475" ph="{...}" />
+            <marker date="1557420459634" expanded="true" signature="1824:1957" ph="/* The idea is to throw a ray from the center of the screen. ... */" />
+            <marker date="1557420459634" expanded="true" signature="2192:3447" ph="{...}" />
+            <marker date="1557420459634" expanded="true" signature="2508:2620" ph="{...}" />
+            <marker date="1557420459634" expanded="true" signature="2641:2754" ph="{...}" />
+            <marker date="1557420459634" expanded="true" signature="2956:3137" ph="/* Taking the center point object of the marker point. This is not important in this moment. ... */" />
+            <marker date="1557420459634" expanded="true" signature="3540:3942" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ARular/Scripts/TestingLine.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="4" column="79" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
+          <folding>
+            <marker date="1557420644609" expanded="false" signature="6:110" ph="..." />
+            <marker date="1557420644609" expanded="true" signature="212:3044" ph="{...}" />
+            <marker date="1557420644609" expanded="true" signature="262:3041" ph="{...}" />
+            <marker date="1557420644609" expanded="true" signature="575:659" ph="{...}" />
+            <marker date="1557420644609" expanded="true" signature="768:1508" ph="{...}" />
+            <marker date="1557420644609" expanded="true" signature="913:1363" ph="{...}" />
+            <marker date="1557420644609" expanded="true" signature="1024:1349" ph="{...}" />
+            <marker date="1557420644609" expanded="true" signature="1404:1485" ph="{...}" />
+            <marker date="1557420644609" expanded="true" signature="1548:2102" ph="{...}" />
+            <marker date="1557420644609" expanded="true" signature="1690:2083" ph="{...}" />
+            <marker date="1557420644609" expanded="true" signature="1772:2069" ph="{...}" />
+            <marker date="1557420644609" expanded="true" signature="2167:2569" ph="{...}" />
+            <marker date="1557420644609" expanded="true" signature="2623:3035" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ARular/Scripts/Point.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <marker date="1557275006113" expanded="false" signature="6:78" ph="..." />
+            <marker date="1557275006113" expanded="true" signature="101:222" ph="{...}" />
+            <marker date="1557275006113" expanded="true" signature="143:220" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ARular/Scripts/DistanceButton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+          <folding>
+            <marker date="1557371386027" expanded="true" signature="6:91" ph="..." />
+            <marker date="1557371386027" expanded="true" signature="114:471" ph="{...}" />
+            <marker date="1557371386027" expanded="true" signature="170:469" ph="{...}" />
+            <marker date="1557371386027" expanded="true" signature="205:251" ph="{...}" />
+            <marker date="1557371386027" expanded="true" signature="300:463" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ARular/Scripts/ButtonBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <marker date="1557365934791" expanded="true" signature="6:100" ph="..." />
+            <marker date="1557365934791" expanded="true" signature="123:893" ph="{...}" />
+            <marker date="1557365934791" expanded="true" signature="174:890" ph="{...}" />
+            <marker date="1557365934791" expanded="true" signature="434:603" ph="{...}" />
+            <marker date="1557365934791" expanded="true" signature="651:884" ph="{...}" />
+            <marker date="1557365934791" expanded="true" signature="715:786" ph="{...}" />
+            <marker date="1557365934791" expanded="true" signature="803:874" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UnitConverter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <marker date="1557360694255" expanded="false" signature="6:110" ph="..." />
+            <marker date="1557360694255" expanded="true" signature="132:776" ph="{...}" />
+            <marker date="1557360694255" expanded="true" signature="203:774" ph="{...}" />
+            <marker date="1557360694255" expanded="true" signature="415:588" ph="{...}" />
+            <marker date="1557360694255" expanded="true" signature="621:768" ph="{...}" />
+            <marker date="1557360694255" expanded="true" signature="667:758" ph="/* if (output.Contains(&quot;cm&quot;)) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ARular/Scripts/LineRendererDrawing.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="79" column="40" lean-forward="true" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
+          <folding>
+            <marker date="1557420896689" expanded="true" signature="6:65" ph="..." />
+            <marker date="1557420896689" expanded="true" signature="88:7053" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="110:605" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="257:355" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="401:599" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="449:526" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="687:7051" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="1229:1418" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="1302:1408" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="1478:1917" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="1985:4304" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="2208:2694" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="2749:3870" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="3212:3306" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="3548:3840" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="3739:3822" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="3926:4264" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="4406:5768" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="4597:5012" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="4825:4998" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="5046:5373" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="5123:5204" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="5225:5307" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="5803:5856" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="5884:6090" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="5932:6053" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="6163:6408" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="6261:6347" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="6460:6931" ph="{...}" />
+            <marker date="1557420896689" expanded="true" signature="6970:7045" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
