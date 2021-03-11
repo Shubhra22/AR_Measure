@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="017d90b0-cc0a-4706-90d7-f7eb9d5fdcbb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AR_Measure/.idea/.idea.AR_Measure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AR_Measure/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AR_Measure/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AR_Measure/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AR_Measure/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AR_Measure/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AR_Measure/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AR_Measure/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARular/Fonts/Apex Mk2/ApexMk2-BoldExtended SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ARular/Fonts/Apex Mk2/ApexMk2-BoldExtended SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARular/Fonts/junction-master/Junction-regular SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ARular/Fonts/junction-master/Junction-regular SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARular/Fonts/junction-master/Junction-regular.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ARular/Fonts/junction-master/Junction-regular.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARular/Prefab/Sphere.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ARular/Prefab/Sphere.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARular/Scenes/RularScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ARular/Scenes/RularScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARular/Scripts/Point.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ARular/Scripts/Point.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARular/Sprite/Discrete.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ARular/Sprite/Discrete.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARular/Sprite/circle.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ARular/Sprite/circle.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/circle.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/circle.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/Common/Textures/Surface.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/Common/Textures/Surface.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/Common/Textures/background.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/Common/Textures/background.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/InstantPreview/Scripts/InstantPreview.apk.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/DOTweenSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/DOTweenSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/Packages-Update.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/Packages-Update.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/ARular/Scripts/Point.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1paxnQizJpvKyxskJsvsYHQN0Lk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="017d90b0-cc0a-4706-90d7-f7eb9d5fdcbb" name="Default Changelist" comment="" />
+      <created>1615435169729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615435169729</updated>
+      <workItem from="1615435178833" duration="206000" />
+      <workItem from="1615435409267" duration="272000" />
+      <workItem from="1615436128617" duration="268000" />
+      <workItem from="1615436455751" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
